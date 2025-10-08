@@ -183,7 +183,7 @@ Med outputtet i din terminal skulle du gerne blive givet et link til dit API som
 
 Går du i din browser til <code>http://127.0.0.1:8000/movies</code>, så vil du få data fra dit API om **alle film**.
 
-Går du i stedet til fx <code>http://127.0.0.1:8000/movies/1</code>, så du kun få data om filmen med id'et nummer 1 (_her Harry Potter filmen i vores tilfælde_). Hvis du se data for en anden film - fx filmen med id 2 - så udskift blot url'ens sidste del med filmens id (for filmen med id'et 2 ville url'en vøre <code>http://127.0.0.1:8000/movies/2</code>).
+Går du i stedet til fx <code>http://127.0.0.1:8000/movies/1</code>, så vil du kun få data om filmen med id'et nummer 1 (_her Harry Potter filmen i vores tilfælde_). Hvis du vil se data for en anden film - fx filmen med id 2 - så udskift blot url'ens sidste del med filmens id (for filmen med id'et 2 ville url'en vøre <code>http://127.0.0.1:8000/movies/2</code>).
 
 ## Bidrag til dette materiale
 Dette materiale er lavet med bidrag af:
