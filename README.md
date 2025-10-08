@@ -9,13 +9,13 @@ Link til den tidligere guide er: https://github.com/coding-pirates-hillerod/pyth
 I denne guide vil du skulle bygge videre på det meget, meget simple API du tidligere har lavet (via den ovennævnte guide) - dvs. vi vil i denne guide udvide den kode du allerede har skrevet med et eksempel på et API, hvorfra man kan få data om nogle enkelte film.
 
 For at kode dette vil vi derfor følge disse steps:
-- Importere en <code>BaseModel</code> fra <code>pydantic</code>
-- Slette vores tidligere ene route
-- Lave en <code>list</code> med flere film
-- Lave en <code>Movie</code> klasse for film
-- Lave en route til at hente alle film gemt i vores liste
-- Lave en route til at hente en enkelt film per dets id
-- Starte en udviklingsserver og se vores API i en browser
+1. Importere en <code>BaseModel</code> fra <code>pydantic</code>
+2. Slette vores tidligere ene route
+3. Lave en <code>list</code> med flere film
+4. Lave en <code>Movie</code> klasse for film
+5. Lave en route til at hente alle film gemt i vores liste
+6. Lave en route til at hente en enkelt film per dets id
+7. Starte en udviklingsserver og se vores API i en browser
 
 Alle disse steps vil én efter én blive gennemgået i nedenstående.
 
