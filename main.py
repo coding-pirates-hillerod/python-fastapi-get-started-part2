@@ -18,3 +18,11 @@ class Movies(BaseModel):
 def get_movies():
     """Get all movies"""
     return {"movies": movies}
+
+@app.get("/movies/{movie_id}")
+def get_movie(movie_id: int):
+    """Get a specific movie by ID."""
+    for movie in movies:
+        if movie["id"] == movie_id:
+            return movie
+    return {"error": "Movie not found"}
