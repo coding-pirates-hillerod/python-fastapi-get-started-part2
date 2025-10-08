@@ -6,7 +6,7 @@ Har du ikke været den tidligere guide igennem før, så er her et link til den,
 Link til den tidligere guide er: https://github.com/coding-pirates-hillerod/python-fastapi-get-started
 
 ## Om denne guide
-I denne vil du skulle bygge videre på det meget, meget simple API du tidligere har lavet (via den ovennævnte guide) - dvs. vi vil i denne guide udvide den kode du allerede har skrevet med et eksempel på et API, hvorfra man kan få data om nogle enkelte film.
+I denne guide vil du skulle bygge videre på det meget, meget simple API du tidligere har lavet (via den ovennævnte guide) - dvs. vi vil i denne guide udvide den kode du allerede har skrevet med et eksempel på et API, hvorfra man kan få data om nogle enkelte film.
 
 For at kode dette vil vi derfor følge disse steps:
 - Importere en <code>BaseModel</code> fra <code>pydantic</code>
