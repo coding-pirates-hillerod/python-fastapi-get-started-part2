@@ -188,7 +188,7 @@ Går du i stedet til fx <code>http://127.0.0.1:8000/movies/1</code>, så vil du 
 ## Bidrag til dette materiale
 Dette materiale er lavet med bidrag af:
 
-- [Jonas Bak Phillispn](https://github.com/jbakchr) (_Formand og Kaptajn for Coding Pirates Hillerød_)
+- [Jonas Bak Phillipson](https://github.com/jbakchr) (_Formand og Kaptajn for Coding Pirates Hillerød_)
 
 ## Tak
 Meget af idéen - praktisk talt "mega, mega meget" af idéen - til denne guide stammer fra [RealPython](https://realpython.com/) artiklen "[Get Started With FastAPI](https://realpython.com/get-started-with-fastapi/)", hvorfor der skal lyde et kæmpe tak til dem og alt det gode materiale om Python de laver ❤️
